@@ -1,0 +1,1239 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>164andbeyond.org</title>
+    <link>https://www.164andbeyond.org/speakers</link>
+    <description>description</description>
+    <itunes:explicit>yes</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 17 May 2024 00:17:51 +0000</lastBuildDate>
+    <pubDate>Fri, 17 May 2024 00:17:51 +0000</pubDate>
+    <itunes:image href="https://images.squarespace-cdn.com/content/v1/5f0d14c3e4942c1c8af72f44/1594742373516-GQFEX171R3TZCSDWEVPO/serenity-prayer-reclaimed-wood-sign.jpg?format=2500w"/>
+    <item>
+      <title>1-6-2024RJ</title>
+      <guid isPermaLink="false">6fca7c1f-73c8-4252-8038-2cddb36e8221</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65a2b13343d23822e723ca3c/1705161030125/1-6-2024RJ.mp4/original/1-6-2024RJ.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-13-2024RonH</title>
+      <guid isPermaLink="false">9fbb6700-8a87-4c81-8dce-e03c436514f9</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65a6b1d89e7cf2205a12242c/1705423344370/1-13-2024RonH.mp4/original/1-13-2024RonH.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-27-2024KathyS</title>
+      <guid isPermaLink="false">c737f48d-ee7e-4d9c-8162-0df15fb2592b</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65b76f7673df1a7057b5e5f1/1706520455462/1-27-2024KathyS.mp4/original/1-27-2024KathyS.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-20-2024SeanK</title>
+      <guid isPermaLink="false">23640079-f64b-4210-9171-e06c67f0453f</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65b77a334e0656062d423420/1706523204910/1-20-2024SeanK.mp4/original/1-20-2024SeanK.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-3-2024KenB</title>
+      <guid isPermaLink="false">ac6f6f52-6178-478f-88cd-83f2889f635d</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65e8438243a1a10cee6de5e0/1709720472483/2-3-2024KenB.mp4/original/2-3-2024KenB.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-10-2024BobD</title>
+      <guid isPermaLink="false">4504cc9d-816d-4aa9-bafd-72a064c20986</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65cf5514831994083c88009d/1708086569943/2-10-2024BobD.mp4/original/2-10-2024BobD.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-17-2024Ryan</title>
+      <guid isPermaLink="false">9a50afd8-ec68-4491-aad9-ecd6ed0990c4</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65e84f536de35a617f83b8d0/1709723499766/2-17-2024Ryan.mp4/original/2-17-2024Ryan.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-24-2024MarkH</title>
+      <guid isPermaLink="false">917057b1-c619-456c-9f6c-4773977a5864</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65e9e50b1d30b630478c98b4/1709827364320/2-24-2024MarkH.mp4/original/2-24-2024MarkH.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suzanne S. 3-2-24 pm</title>
+      <guid isPermaLink="false">aaed59f2-b29d-4803-96f8-7e0249f6b2b3</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/661589b3c97c953a7c46b50b/1712687600543/Suzanne+S.+3-2-24+pm.m4a/original/Suzanne+S.+3-2-24+pm.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mar 9 Pete F. LA</title>
+      <guid isPermaLink="false">891138d3-9484-48df-a1ee-be18264cc61f</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/66158b46bc959a240a276278/1712688044747/Mar+9+Pete+F.+LA.m4a/original/Mar+9+Pete+F.+LA.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kimbrelea M - Vancover%2C CAN Mar 16 2024 PM</title>
+      <guid isPermaLink="false">7824c90e-989a-4a31-8053-7e16d91fee4f</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/66158788d3883908e71d654f/1712687034034/Kimbrelea+M+-+Vancover%2C+CAN+Mar+16+2024+PM.m4a/original/Kimbrelea+M+-+Vancover%2C+CAN+Mar+16+2024+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mar 23 - 2024 Aaron Z Oregon</title>
+      <guid isPermaLink="false">4fa7b723-f63b-4af7-afc1-a6098e4b6737</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/66158554ec210b75bd65225d/1712686505591/Mar+23+-+2024+Aaron+Z+Oregon.m4a/original/Mar+23+-+2024+Aaron+Z+Oregon.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Daren L. 3-30-24</title>
+      <guid isPermaLink="false">aa53ff2d-9a0a-46b9-ad54-a630ffbe9919</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/66158331809e7d6b8390c057/1712685933279/Daren+L.+3-30-24.m4a/original/Daren+L.+3-30-24.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apr 6%2C 2024 10-39 PM Tyrol M.</title>
+      <guid isPermaLink="false">dc978b50-4d07-487f-8cd0-8a51695139fb</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/66328623312b587676b5ac89/1714587227928/Apr+6%2C+2024+10-39+PM+Tyrol+M..m4a/original/Apr+6%2C+2024+10-39+PM+Tyrol+M..m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apr 13%2C 2024 10-47 PM Labelle J</title>
+      <guid isPermaLink="false">57da163b-61c8-40cd-a86f-86562c081cd7</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/6632866f445c4c13e87e3dcb/1714587310836/Apr+13%2C+2024+10-47+PM+Labelle+J.m4a/original/Apr+13%2C+2024+10-47+PM+Labelle+J.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apr 20%2C 2024 10-37 PM Jennifer California</title>
+      <guid isPermaLink="false">67b60f60-a2c1-4ac5-bfd9-c7afadbb8dd3</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/663286c573b0506fb4507f0f/1714587389588/Apr+20%2C+2024+10-37+PM+Jennifer+California.m4a/original/Apr+20%2C+2024+10-37+PM+Jennifer+California.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apr 27%2C 2024 10-49 PM Trevor</title>
+      <guid isPermaLink="false">60c1f8a4-1e02-454c-b195-131e047b0f3f</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/6632871223191e3654d54b8b/1714587462028/Apr+27%2C+2024+10-49+PM+Trevor.m4a/original/Apr+27%2C+2024+10-49+PM+Trevor.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-6-2024MonicaA</title>
+      <guid isPermaLink="false">09249cc8-485c-491c-857e-e11689011e6b</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65a2af6c7ecf9c2e4ef8d6f8/1705160567327/1-6-2024MonicaA.mp4/original/1-6-2024MonicaA.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-27-2024Jaime</title>
+      <guid isPermaLink="false">9c897ab9-d806-41b3-8b17-bf4dae38db7e</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65b770ec63af444745ceebc0/1706520818760/1-27-2024Jaime.mp4/original/1-27-2024Jaime.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-20-2024Dan</title>
+      <guid isPermaLink="false">be080b32-a695-4bc6-a709-3a9db6e11420</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65b77c02f3e3ed6a28516ca0/1706523661317/1-20-2024Dan.mp4/original/1-20-2024Dan.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-3-2024TrevorN</title>
+      <guid isPermaLink="false">c426f251-426b-4ee2-b8ad-357693e8dfdf</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65cf7839e2ffda57b6107ac7/1708095554284/2-3-2024TrevorN.mp4/original/2-3-2024TrevorN.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-10-2024RobB</title>
+      <guid isPermaLink="false">0f3769cc-9c47-488b-a6c4-29469d6247bf</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65cf7cb776cb1b56f9b390ca/1708096706332/2-10-2024RobB.mp4/original/2-10-2024RobB.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-17-2024JessicaS</title>
+      <guid isPermaLink="false">3b93ffd9-b4d6-49f2-a5db-ce21273c857d</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65e84d3fd3e5d34111de9dd3/1709722957069/2-17-2024JessicaS.mp4/original/2-17-2024JessicaS.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>3-2-2024KarenR</title>
+      <guid isPermaLink="false">7840e5dd-dd5b-49ea-9480-066b5bbfb77f</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65e847cfe7bc6a1f9ca485f0/1709721562303/3-2-2024KarenR.mp4/original/3-2-2024KarenR.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>BRANDON R. 3-16-2024 AM</title>
+      <guid isPermaLink="false">314d2c61-3424-4766-ad2e-145f0975f26c</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/66158daacf02e711336f1c4a/1712688573367/BRANDON+R.+3-16-2024+AM.m4a/original/BRANDON+R.+3-16-2024+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marvyn W  3-23-24-AM Toronto%2C CAN </title>
+      <guid isPermaLink="false">d9064af5-e655-4bce-b3b4-75e8a66d9519</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/66158c883006cc35bdfdb844/1712688286451/Marvyn+W++3-23-24-AM+Toronto%2C+CAN+.m4a/original/Marvyn+W++3-23-24-AM+Toronto%2C+CAN+.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>3-30-24 AM Terrence J</title>
+      <guid isPermaLink="false">35a35ba8-57df-44db-ae56-3c0725e001f4</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/66158c2d4c49a5746e898d04/1712688193241/3-30-24+AM+Terrence+J.m4a/original/3-30-24+AM+Terrence+J.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apr 6%2C 2024 11-40 AM Bill  Ohio</title>
+      <guid isPermaLink="false">3d7130ad-44d1-45db-bcc2-c806cd461f03</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/66328f79bd76760b45b07a47/1714589595525/Apr+6%2C+2024+11-40+AM+Bill++Ohio.m4a/original/Apr+6%2C+2024+11-40+AM+Bill++Ohio.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apr 13%2C 2024 11-35 AM Dennis</title>
+      <guid isPermaLink="false">ca7541b7-db18-47f8-bb45-fb3a176a5ffd</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/66328fbb46564d60539bddd5/1714589655473/Apr+13%2C+2024+11-35+AM+Dennis.m4a/original/Apr+13%2C+2024+11-35+AM+Dennis.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apr 20%2C 2024 11-49 AM Chris B</title>
+      <guid isPermaLink="false">72f35472-bcf9-4fc5-8f45-841c1a209f63</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/66328ff7392e962f64eb5a8d/1714589715143/Apr+20%2C+2024+11-49+AM+Chris+B.m4a/original/Apr+20%2C+2024+11-49+AM+Chris+B.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apr 27%2C 2024 11-44 AM Tom W  FL</title>
+      <guid isPermaLink="false">186cfb1e-a987-4926-95c0-003fa13169ec</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/6632902e1807bd49b936313e/1714589765719/Apr+27%2C+2024+11-44+AM+Tom+W++FL.m4a/original/Apr+27%2C+2024+11-44+AM+Tom+W++FL.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 7%2C 2023  PM Recording  Ken S - Belfast%2C Maine</title>
+      <guid isPermaLink="false">0ce4e96c-d6ef-43f9-997f-da4344223393</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c122/1684049608523/January+7%2C+2023++PM+Recording++Ken+S+-+Belfast%2C+Maine.m4a/original/January+7%2C+2023++PM+Recording++Ken+S+-+Belfast%2C+Maine.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lois - FL%2CUSA 01-14-23 PM</title>
+      <guid isPermaLink="false">52f3c9e6-016c-4bc5-ba4f-f92684c18212</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c124/1684049608528/Lois+-+FL%2CUSA+01-14-23+PM.m4a/original/Lois+-+FL%2CUSA+01-14-23+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>01-21-23 PM</title>
+      <guid isPermaLink="false">75eb7777-110c-4271-b29d-0dd96b613750</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c126/1684049608533/01-21-23+PM.m4a/original/01-21-23+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lida 01-28-23 PM</title>
+      <guid isPermaLink="false">260c96df-d111-4a2a-8898-da18e394da1b</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c128/1684049608537/Lida+01-28-23+PM.m4a/original/Lida+01-28-23+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eric B - Feb 4 Night Meeting</title>
+      <guid isPermaLink="false">9e67c226-a7a8-4e85-8c28-8830add651f1</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c12a/1684049608541/Eric+B+-+Feb+4+Night+Meeting.m4a/original/Eric+B+-+Feb+4+Night+Meeting.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jo-Ann 02-11-2023</title>
+      <guid isPermaLink="false">d4bff8e9-0ceb-4774-8e10-96eabda2f8e0</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c12c/1684049608545/Jo-Ann+02-11-2023.m4a/original/Jo-Ann+02-11-2023.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bill Spokane%2C Wa - Feb 18 PM</title>
+      <guid isPermaLink="false">c4bc4d06-bdc2-404a-a7bb-bb56696c4d54</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c12e/1684049608549/Bill+Spokane%2C+Wa+-+Feb+18+PM.m4a/original/Bill+Spokane%2C+Wa+-+Feb+18+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 25%2C 2023  Tricia L - Nashville%2C TN PM</title>
+      <guid isPermaLink="false">b3a35c00-903d-4e9e-9e9e-0313391556bb</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c130/1684049608553/February+25%2C+2023++Tricia+L+-+Nashville%2C+TN+PM.m4a/original/February+25%2C+2023++Tricia+L+-+Nashville%2C+TN+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bianca R. - Pennsylvania - 03-04-2023 PM 2</title>
+      <guid isPermaLink="false">1204cf9d-cde4-45b2-9229-15d9a5e15072</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c132/1684049608557/Bianca+R.+-+Pennsylvania+-+03-04-2023+PM+2.m4a/original/Bianca+R.+-+Pennsylvania+-+03-04-2023+PM+2.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>3-11-2023 Malibu pm</title>
+      <guid isPermaLink="false">9a4f6b45-a586-4c30-9a70-a91283aed77d</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c134/1684049608561/3-11-2023+Malibu+pm.m4a/original/3-11-2023+Malibu+pm.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meg R - Mar 18 2023 PM</title>
+      <guid isPermaLink="false">bc43d989-f8b5-4e0f-88e2-f940bd4fd8ad</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c136/1684049608565/Meg+R+-+Mar+18+2023+PM.m4a/original/Meg+R+-+Mar+18+2023+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>David B - Mar 25</title>
+      <guid isPermaLink="false">a23a0127-99be-4cdb-827f-de1f31678190</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c138/1684049608569/David+B+-+Mar+25.m4a/original/David+B+-+Mar+25.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brian D April 1</title>
+      <guid isPermaLink="false">036d6f57-1885-44a3-9299-2540bd173950</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c13a/1684049608573/Brian+D+April+1.m4a/original/Brian+D+April+1.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Andie - UK %28She%3AHer%29  April 15th PM Recording</title>
+      <guid isPermaLink="false">8f019f09-53d1-4e9c-9a85-b63f141bb6fe</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c13c/1684049608577/Andie+-+UK+%28She%3AHer%29++April+15th+PM+Recording.m4a/original/Andie+-+UK+%28She%3AHer%29++April+15th+PM+Recording.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gay N - Texas Author of %2522Winner Takes All%2522 April 22%2C 2023 PM Recording</title>
+      <guid isPermaLink="false">1c29680a-ceaf-48da-adbf-591f0b5196d9</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c13e/1684049608581/Gay+N+-+Texas+Author+of+%2522Winner+Takes+All%2522+April+22%2C+2023+PM+Recording.m4a/original/Gay+N+-+Texas+Author+of+%2522Winner+Takes+All%2522+April+22%2C+2023+PM+Recording.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gary C - WA    April 29%2C 2023 PM</title>
+      <guid isPermaLink="false">4ad33e87-d692-4541-8bc9-b8e0a420edff</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c140/1684049608585/Gary+C+-+WA++++April+29%2C+2023+PM.m4a/original/Gary+C+-+WA++++April+29%2C+2023+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 6th%2C PM Recording  Mike L - Oregon</title>
+      <guid isPermaLink="false">c3b638d1-7f34-4a28-9da3-bf9a88bf2a63</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c142/1684049608589/May+6th%2C+PM+Recording++Mike+L+-+Oregon.m4a/original/May+6th%2C+PM+Recording++Mike+L+-+Oregon.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Melody May 14 2023</title>
+      <guid isPermaLink="false">99399ffd-e138-462a-91a0-f3af02ebf97b</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c144/1684627602774/Melody+May+14+2023.m4a/original/Melody+May+14+2023.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-20-2023CameronF</title>
+      <guid isPermaLink="false">03686cd2-9163-46f7-9d00-67d6baec6a3f</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/6475ef27e770ef0554b130e2/1685450554220/5-20-2023CameronF.m4a/original/5-20-2023CameronF.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-27-2023MarilynS</title>
+      <guid isPermaLink="false">784f9996-a1fc-4b90-a88c-fdf06b5eebf9</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/6473086cfb76464c7708499f/1685260415888/5-27-2023MarilynS.mp3/original/5-27-2023MarilynS.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>6-10-2023MichelleH.</title>
+      <guid isPermaLink="false">1e2bb496-c0d9-40b2-8353-05082f5adcd2</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64884b1de0c23f3684064b55/1686653743954/6-10-2023MichelleH..m4a/original/6-10-2023MichelleH..m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>6-17-2023Albert</title>
+      <guid isPermaLink="false">80f1f1d3-7d72-407b-84e2-8dd927471a7b</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/6492bb69e6878401a508ce34/1687337848950/6-17-2023Albert.m4a/original/6-17-2023Albert.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>6-24-2023PhilM</title>
+      <guid isPermaLink="false">5c4cdc7e-c044-45b7-8903-00f5ba333423</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64a048ed47eb7f268b0a22ef/1688226048312/6-24-2023PhilM.m4a/original/6-24-2023PhilM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>7-1-2023Anne S - California%281%29</title>
+      <guid isPermaLink="false">61160ad3-5f30-4b39-b909-381e74b86244</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64a23a63b2d971308339dd43/1688353399283/7-1-2023Anne+S+-+California%281%29.m4a/original/7-1-2023Anne+S+-+California%281%29.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>7-8-2023Jeremiah</title>
+      <guid isPermaLink="false">53d035c6-9336-4f05-b45b-fdba34f15c1c</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64b5fe50699a44483c4184c6/1689648732196/7-8-2023Jeremiah.m4a/original/7-8-2023Jeremiah.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>7-15-2023Patricia</title>
+      <guid isPermaLink="false">8d60ce7c-7eeb-4b94-96e6-6d40472ef0f1</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64b373307194aa1c3f900a5b/1689482048467/7-15-2023Patricia.m4a/original/7-15-2023Patricia.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>7-23-2023Scott</title>
+      <guid isPermaLink="false">685e77e4-e673-4571-9c5d-55c385a6f096</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64c6a27a2be85a16ebcd1634/1690739343924/7-23-2023Scott.mp4/original/7-23-2023Scott.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>7-29-2023BrendaM</title>
+      <guid isPermaLink="false">17ac18ef-aef2-47bf-aa95-6069bd8b9eff</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64c71f68ef61a10b12df156e/1690771314381/7-29-2023BrendaM.m4a/original/7-29-2023BrendaM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>8-5-2023Thomas</title>
+      <guid isPermaLink="false">23a12100-33ea-42ef-8b9a-5dbca5252bed</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64d0eee26d973235f828b474/1691414252116/8-5-2023Thomas.m4a/original/8-5-2023Thomas.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>8-12-2023JudyH</title>
+      <guid isPermaLink="false">632dbf2f-13d1-4a68-a56d-609564b6f5cd</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64d85b98306d0f54d522b4b8/1691900841131/8-12-2023JudyH.m4a/original/8-12-2023JudyH.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>8-19-2023PatTddd</title>
+      <guid isPermaLink="false">3472e3ce-d592-41ae-9050-6caa6cdc9635</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64e375213e761f2a6493b52e/1692628279435/8-19-2023PatTddd.mp4/original/8-19-2023PatTddd.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>9-2-2023RickyPA</title>
+      <guid isPermaLink="false">dbd97216-a669-4e45-9591-fc8f702e4033</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64f8fa534f34027fb94cc2da/1694038629136/9-2-2023RickyPA.mp4/original/9-2-2023RickyPA.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>9-30-2023Nancy</title>
+      <guid isPermaLink="false">40ad0b24-f442-4e75-aafb-95a0a6d51fb3</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/652afd39b7d8f9765ef88aa1/1697316168765/9-30-2023Nancy.mp4/original/9-30-2023Nancy.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>10-21-2023CassieB</title>
+      <guid isPermaLink="false">fd8a3628-70e9-4e40-9475-949a166be4c3</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/653aa6455a574618d4979f84/1698342489148/10-21-2023CassieB.mp4/original/10-21-2023CassieB.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>10-28-2023Dean B.PM</title>
+      <guid isPermaLink="false">ff4c8f3a-bb8a-4fe0-97db-f7158cf3e8c5</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/6549043e1605fe64221dd882/1699284057666/10-28-2023Dean+B.PM.mp4/original/10-28-2023Dean+B.PM.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>11-4-2023EdS.OntarioCA</title>
+      <guid isPermaLink="false">edc47b9a-52c1-4db1-b97d-952d2b1237a0</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/654905e4dd7bda349401681b/1699284473223/11-4-2023EdS.OntarioCA.mp4/original/11-4-2023EdS.OntarioCA.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>12-02-2023KristineN</title>
+      <guid isPermaLink="false">9404fac9-aeab-44d7-918a-bd130b8002a9</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/658b74fcac89554effcfa71c/1703638286629/12-02-2023KristineN.mp4/original/12-02-2023KristineN.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>12-9-2023GregT</title>
+      <guid isPermaLink="false">7f8e7ec0-ce63-4ab8-9d0d-6f7734f8fdda</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/6586e97ca4b64c6f8732429f/1703340430395/12-9-2023GregT.mp4/original/12-9-2023GregT.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>12-23-2023JeffB.</title>
+      <guid isPermaLink="false">5a70405c-9874-4faf-9f03-8181276f8918</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65a10fd181933c7df7e08eba/1705054181338/12-23-2023JeffB..mp4/original/12-23-2023JeffB..mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 7%2C 2023  AM Recording  Mitch C - NJ</title>
+      <guid isPermaLink="false">76bb3b28-bd1f-4262-8677-201036a8e254</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c146/1684049608595/January+7%2C+2023++AM+Recording++Mitch+C+-+NJ.m4a/original/January+7%2C+2023++AM+Recording++Mitch+C+-+NJ.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 21%2C 2023  AM Recording  Sarah - FL</title>
+      <guid isPermaLink="false">bac5c878-1870-4196-9cbc-85f843bd7b4e</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c148/1684049608599/January+21%2C+2023++AM+Recording++Sarah+-+FL.m4a/original/January+21%2C+2023++AM+Recording++Sarah+-+FL.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samual Feb 4 2023</title>
+      <guid isPermaLink="false">bbcdcd61-22cc-4bd2-acf7-a93c863ff3b1</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c14a/1684049608604/Samual+Feb+4+2023.m4a/original/Samual+Feb+4+2023.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adam Feb 18%2C 2023 AM</title>
+      <guid isPermaLink="false">211d2b17-bd9e-4d4c-9a6f-e3ab7a065a16</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c14c/1684049608607/Adam+Feb+18%2C+2023+AM.m4a/original/Adam+Feb+18%2C+2023+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lucile Alberta%2C Canada 2-25-2023 AM</title>
+      <guid isPermaLink="false">4d201d09-38f1-4e97-9ab3-2707bc89fa87</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c14e/1684049608611/Lucile+Alberta%2C+Canada+2-25-2023+AM.m4a/original/Lucile+Alberta%2C+Canada+2-25-2023+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patrick%2C RVA%2C 3-4-2023 AM</title>
+      <guid isPermaLink="false">38357761-5f2d-43e9-8336-738067b32075</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c150/1684049608614/Patrick%2C+RVA%2C+3-4-2023+AM.m4a/original/Patrick%2C+RVA%2C+3-4-2023+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kristine N 3-11-2023 AM </title>
+      <guid isPermaLink="false">c7f856d7-8417-4767-80ca-8820d2a91e6a</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c152/1684049608619/Kristine+N+3-11-2023+AM+.m4a/original/Kristine+N+3-11-2023+AM+.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Max 3-18-2023 AM </title>
+      <guid isPermaLink="false">d4f8e976-c281-4f21-888b-c11316db83c1</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c154/1684049608623/Max+3-18-2023+AM+.m4a/original/Max+3-18-2023+AM+.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sean M. April 1 2023 am</title>
+      <guid isPermaLink="false">511fd39c-40df-4f8e-ad34-1a0176bd16af</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c156/1684049608626/Sean+M.+April+1+2023+am.m4a/original/Sean+M.+April+1+2023+am.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ken B. 4-8-23 AM</title>
+      <guid isPermaLink="false">73a46144-7800-4fbd-a8f9-3b5edcb766cb</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c158/1684049608634/Ken+B.+4-8-23+AM.m4a/original/Ken+B.+4-8-23+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kevin 4-15-23 AM Akron</title>
+      <guid isPermaLink="false">b817e759-374c-48d5-a957-ed34dc2e41f6</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c15a/1684049608638/Kevin+4-15-23+AM+Akron.m4a/original/Kevin+4-15-23+AM+Akron.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beth W%2C WA  am 4-2023</title>
+      <guid isPermaLink="false">f6cec8c7-b3d3-4062-906c-5651b8686698</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c15c/1684049608642/Beth+W%2C+WA++am+4-2023.m4a/original/Beth+W%2C+WA++am+4-2023.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-13-2023Shannon</title>
+      <guid isPermaLink="false">502f1e18-aad4-4946-b706-96f5045d6f39</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/646961663217616e90a4c15e/1684627271665/5-13-2023Shannon.m4a/original/5-13-2023Shannon.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-20-2023TheresaH</title>
+      <guid isPermaLink="false">6c746f9d-02c8-4305-beb2-b6a7017710b7</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/647143990fd1032e32b5a58a/1685144483663/5-20-2023TheresaH.m4a/original/5-20-2023TheresaH.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-27-2023EarlstonD</title>
+      <guid isPermaLink="false">f18aeac1-27e3-4bb1-8d4d-7bf6fdd6bfe3</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64730aac2aeb621b2114e1cf/1685260985354/5-27-2023EarlstonD.m4a/original/5-27-2023EarlstonD.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>6-3-2023Elisa</title>
+      <guid isPermaLink="false">509cbf4a-915d-4181-bdc9-0877c1d73334</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/647b90f13d5632239f6e08df/1685819637704/6-3-2023Elisa.mp4/original/6-3-2023Elisa.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>6-17-2023Chad</title>
+      <guid isPermaLink="false">bb00f101-358f-49ac-a01e-df9b76b4ff78</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/648fc317e1d73916c994d581/1687143198222/6-17-2023Chad.mp4/original/6-17-2023Chad.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>7-1-2023CassieD</title>
+      <guid isPermaLink="false">9cabfb9f-e0a1-4ebe-bde5-f6994e30af14</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64a065cbf77d84393ea65806/1688233428896/7-1-2023CassieD.m4a/original/7-1-2023CassieD.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>7-8-2023 MindyA</title>
+      <guid isPermaLink="false">77643d20-1db5-487d-a79c-a3d2144dba2a</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64a99fdd1916054aa4ee5e3a/1688838115852/7-8-2023+MindyA.m4a/original/7-8-2023+MindyA.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>7-15-2023MarkF</title>
+      <guid isPermaLink="false">9107f30f-c8d9-4ce7-b268-04d6bf2d5889</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64b2de4ee9d4ce7639c75e26/1689443927841/7-15-2023MarkF.mp4/original/7-15-2023MarkF.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>7-22-2023TiffanyM</title>
+      <guid isPermaLink="false">99f18847-4126-422e-a52e-f4c89152b1cf</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64bc161cf9fd1b1dca13c1c1/1690048037356/7-22-2023TiffanyM.m4a/original/7-22-2023TiffanyM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>8-5-2023Glenn</title>
+      <guid isPermaLink="false">da5d56d6-a5f7-47ab-b052-d0aa6f1ab844</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64ce91e592f77a56f047faa3/1691259373736/8-5-2023Glenn.m4a/original/8-5-2023Glenn.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>8-12-2023RobK.</title>
+      <guid isPermaLink="false">357384a0-487e-45f9-9e77-cc5cab284ee1</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64d7ccdd9db1626988800127/1691864301907/8-12-2023RobK..m4a/original/8-12-2023RobK..m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>8-19-2023Courtney</title>
+      <guid isPermaLink="false">aa7c7273-a273-474f-bfc7-18e93e3b9dc0</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64e0fd9f2187090abf361e14/1692466599964/8-19-2023Courtney.m4a/original/8-19-2023Courtney.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>8-26-2023Pol</title>
+      <guid isPermaLink="false">47d1c2ff-0bb9-4392-bc5b-f6419ad28f3e</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64ee1e4ccd68fb42417c9356/1693326933902/8-26-2023Pol.mp4/original/8-26-2023Pol.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>9-2-2023Laura</title>
+      <guid isPermaLink="false">f5a3dcc6-e156-4318-84c5-20705ccd87e3</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/64f5f8a272389701db88ffaf/1693841582484/9-2-2023Laura.mp4/original/9-2-2023Laura.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>9-9-2023 Rachel</title>
+      <guid isPermaLink="false">ef85a2ca-afd1-4307-aefa-15b20365c613</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/650c463772260642553ef38f/1695303235446/9-9-2023+Rachel.mp4/original/9-9-2023+Rachel.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>9-16-2023Sparky</title>
+      <guid isPermaLink="false">8f28931d-1e3d-4ab2-a719-1667f49c405d</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/650c46c4afa9255f9263fc09/1695303374046/9-16-2023Sparky.mp4/original/9-16-2023Sparky.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>9-30-2023Delilah</title>
+      <guid isPermaLink="false">6a0839ed-d477-49fd-82a6-1bfd8b5b90e8</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/651ae30b1bee3162b3c5db62/1696260884681/9-30-2023Delilah.mp4/original/9-30-2023Delilah.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>10-7-2023MitchC</title>
+      <guid isPermaLink="false">17922f97-6eb0-4b6a-a659-a749c19c6e73</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/652afe50ceb5c65ad27ed702/1697316439728/10-7-2023MitchC.mp4/original/10-7-2023MitchC.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>10-14-2023NeilP</title>
+      <guid isPermaLink="false">b5f42ff1-29cd-45c9-9f04-0a5f3d223acf</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/653a87926d34804197709a0a/1698334622697/10-14-2023NeilP.mp4/original/10-14-2023NeilP.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>10-21-2023Malibu</title>
+      <guid isPermaLink="false">855b9689-d986-43f6-929d-a50ade62b9ff</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/653aa842ff718b73227d36cc/1698342988934/10-21-2023Malibu.mp4/original/10-21-2023Malibu.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>11-4-2023RobynD.AM</title>
+      <guid isPermaLink="false">399aa2ed-c7b5-4456-a0c1-7993a6cba8b6</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/6549052702fc9f49783be65d/1699284271530/11-4-2023RobynD.AM.mp4/original/11-4-2023RobynD.AM.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>11-18-2023ActionMike</title>
+      <guid isPermaLink="false">2d0dcaee-ada9-47bc-9213-2a2d4fc3bafa</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/655ab969cff7ea40fcd957f1/1700444532434/11-18-2023ActionMike.mp4/original/11-18-2023ActionMike.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>12-2-2023Gaul.Sat</title>
+      <guid isPermaLink="false">b53e4c56-f35d-4657-b38f-3e4e24804087</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/6577a0160c428520deb34818/1702338591912/12-2-2023Gaul.Sat.mp4/original/12-2-2023Gaul.Sat.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>12-23-2023MattN</title>
+      <guid isPermaLink="false">6fa9d562-e9cd-4a58-964e-87c25deafe26</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/65a2ad7939dac9706de83a79/1705160066979/12-23-2023MattN.mp4/original/12-23-2023MattN.mp4" length="0" type="video/mp4"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ariel 1-1-2022 PM</title>
+      <guid isPermaLink="false">45e1bd92-c191-42df-8afb-33a2794cd32b</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264deb/1671598080882/Ariel+1-1-2022+PM.m4a/original/Ariel+1-1-2022+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mary Susan - Massachuttes</title>
+      <guid isPermaLink="false">48aa58cc-ae73-4592-973e-e5629ab309f9</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264ded/1671598080886/Mary+Susan+-+Massachuttes.m4a/original/Mary+Susan+-+Massachuttes.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ralph W Jan 16 2022 PM</title>
+      <guid isPermaLink="false">c642525d-932c-4a7a-b8ca-5ef73d530d18</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264def/1671598080889/Ralph+W+Jan+16+2022+PM.m4a/original/Ralph+W+Jan+16+2022+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mary-NY 1-22-2022 PM</title>
+      <guid isPermaLink="false">d1bb140e-a694-4aa6-929c-c9073ad0a0a4</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264df1/1671598080892/Mary-NY+1-22-2022+PM.m4a/original/Mary-NY+1-22-2022+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bill C.</title>
+      <guid isPermaLink="false">2e96ac54-8b6d-4e9d-b33b-b85967817e71</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264df3/1671598080895/Bill+C..m4a/original/Bill+C..m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patty</title>
+      <guid isPermaLink="false">9e24b39a-1790-4f95-bc92-2917157bd672</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264df5/1671598080898/Patty.m4a/original/Patty.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scott Lee</title>
+      <guid isPermaLink="false">6f1cee7b-0e44-43d9-b94a-c053526a1811</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264df7/1671598080902/Scott+Lee.m4a/original/Scott+Lee.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leslie S. pm speaker Saturday 2.19.22</title>
+      <guid isPermaLink="false">06b21d4c-8f3d-45b8-aae0-cbf1075d213d</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264df9/1671598080905/Leslie+S.+pm+speaker+Saturday+2.19.22.m4a/original/Leslie+S.+pm+speaker+Saturday+2.19.22.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude D Georgia 02-26-2022 PM</title>
+      <guid isPermaLink="false">2b54803f-060e-4c98-b9ea-38d1b72f1288</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264dfb/1671598080911/Claude+D+Georgia+02-26-2022+PM.m4a/original/Claude+D+Georgia+02-26-2022+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ashley J.%2C 03-05-2022 PM Speaker</title>
+      <guid isPermaLink="false">e41fcc61-659d-414d-b625-37a4006a1c9b</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264dfd/1671598080914/Ashley+J.%2C+03-05-2022+PM+Speaker.m4a/original/Ashley+J.%2C+03-05-2022+PM+Speaker.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kelsey 3-18-22</title>
+      <guid isPermaLink="false">4f596e6c-bc06-467f-a0f5-49d65802237f</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264dff/1671598080917/Kelsey+3-18-22.m4a/original/Kelsey+3-18-22.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jerry S.</title>
+      <guid isPermaLink="false">3a8d9971-df92-4184-9605-a51a724a98df</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e01/1671598080921/Jerry+S..m4a/original/Jerry+S..m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>4%3A9%3A2022 Saturday speaker</title>
+      <guid isPermaLink="false">d22b49e4-c22c-4ee5-b44d-ef211a343291</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e03/1671598080924/4%3A9%3A2022+Saturday+speaker.m4a/original/4%3A9%3A2022+Saturday+speaker.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Robin - Lady Bear - Apr 16</title>
+      <guid isPermaLink="false">14790e6f-954a-4a89-b831-cfebf6f52466</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e05/1671598080927/Robin+-+Lady+Bear+-+Apr+16.m4a/original/Robin+-+Lady+Bear+-+Apr+16.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>saturday speaker pm Jillian from Vancouver April 30</title>
+      <guid isPermaLink="false">70205cb5-8e42-4926-b859-aa33410e4459</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e07/1671598080930/saturday+speaker+pm+Jillian+from+Vancouver+April+30.m4a/original/saturday+speaker+pm+Jillian+from+Vancouver+April+30.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evening recording May 7%2C 2022 Marko S.  NM</title>
+      <guid isPermaLink="false">a72fe2a3-1484-46e0-8ed5-c278e5975701</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e09/1671598080933/Evening+recording+May+7%2C+2022+Marko+S.++NM.m4a/original/Evening+recording+May+7%2C+2022+Marko+S.++NM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jo C - Florida Evening recording May 14%2C 2022</title>
+      <guid isPermaLink="false">1ec63297-ef55-450d-8a81-521cac28bdcf</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e0b/1671598080936/Jo+C+-+Florida+Evening+recording+May+14%2C+2022.m4a/original/Jo+C+-+Florida+Evening+recording+May+14%2C+2022.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Michael D - South Dakota 5-21</title>
+      <guid isPermaLink="false">aa4d57cd-b277-4b27-8601-f648f1f90162</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e0d/1671598080939/Michael+D+-+South+Dakota+5-21.m4a/original/Michael+D+-+South+Dakota+5-21.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jessica - New Mexico 5-28</title>
+      <guid isPermaLink="false">6a718894-e40d-41e0-896d-5d32fa80bd1c</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e0f/1671598080943/Jessica+-+New+Mexico+5-28.m4a/original/Jessica+-+New+Mexico+5-28.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 4 - Stan S - Park City%2C Utah PM</title>
+      <guid isPermaLink="false">8051552b-5dbc-471d-882c-25d54a62e0ce</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e11/1671598080945/June+4+-+Stan+S+-+Park+City%2C+Utah+PM.m4a/original/June+4+-+Stan+S+-+Park+City%2C+Utah+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Danielle B - Huntington Beach%2C CA June 11 PM</title>
+      <guid isPermaLink="false">bffb48fb-8c82-4f12-bb94-aaccb26b8a8e</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e13/1671598080949/Danielle+B+-+Huntington+Beach%2C+CA+June+11+PM.m4a/original/Danielle+B+-+Huntington+Beach%2C+CA+June+11+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tim P. - Madison%2C WI June 18th PM speaker</title>
+      <guid isPermaLink="false">231c6590-5fbe-4f62-9185-fea384fddfe6</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e15/1671598080952/Tim+P.+-+Madison%2C+WI+June+18th+PM+speaker.m4a/original/Tim+P.+-+Madison%2C+WI+June+18th+PM+speaker.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speaker recording - Arista B - June 25 PM</title>
+      <guid isPermaLink="false">9f48767b-1eef-45c0-97c1-a252b1a45f7b</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e17/1671598080955/Speaker+recording+-+Arista+B+-+June+25+PM.m4a/original/Speaker+recording+-+Arista+B+-+June+25+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2nd%2C 2022 PM Jonah WR - CA</title>
+      <guid isPermaLink="false">7bbe8355-1403-4c84-b382-385ab33ee101</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e19/1671598080959/July+2nd%2C+2022+PM+Jonah+WR+-+CA.m4a/original/July+2nd%2C+2022+PM+Jonah+WR+-+CA.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adeline G - CA July 9th%2C 2022 PM</title>
+      <guid isPermaLink="false">d17b113f-c2c6-4d56-88c8-bf7b4792524c</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e1b/1671598080962/Adeline+G+-+CA+July+9th%2C+2022+PM.m4a/original/Adeline+G+-+CA+July+9th%2C+2022+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thom R - California</title>
+      <guid isPermaLink="false">170f04c8-27b2-4c1f-a4d7-70d965a595b9</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e1d/1671598080965/Thom+R+-+California.m4a/original/Thom+R+-+California.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jeri Lynn - Florida</title>
+      <guid isPermaLink="false">6224198b-c086-4448-a341-452b0a07b54d</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e1f/1671598080969/Jeri+Lynn+-+Florida.m4a/original/Jeri+Lynn+-+Florida.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mark F. - Helena%2C MT</title>
+      <guid isPermaLink="false">24b10789-678c-419e-a657-a094e5ffd6ea</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e21/1671598080980/Mark+F.+-+Helena%2C+MT.m4a/original/Mark+F.+-+Helena%2C+MT.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Darrell B - Aug 13</title>
+      <guid isPermaLink="false">448bc6c0-1eb6-47c9-b8e8-f563fcdc11cd</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e23/1671598080984/Darrell+B+-+Aug+13.m4a/original/Darrell+B+-+Aug+13.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>8%3A20%3A22 Pat C</title>
+      <guid isPermaLink="false">f8e5d6ea-32fc-45fc-afb7-eef99a3a62e2</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e25/1671598080987/8%3A20%3A22+Pat+C.m4a/original/8%3A20%3A22+Pat+C.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jamie 9-3 pm</title>
+      <guid isPermaLink="false">355450f6-e45e-4f0b-abe4-e45156c5fbce</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e27/1671598080991/Jamie+9-3+pm.m4a/original/Jamie+9-3+pm.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Richard - Las Vegas PM Recording September 10%2C 2022</title>
+      <guid isPermaLink="false">afa1c9fa-393a-403b-9d7f-04d956213e6c</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e29/1671598080994/Richard+-+Las+Vegas+PM+Recording+September+10%2C+2022.m4a/original/Richard+-+Las+Vegas+PM+Recording+September+10%2C+2022.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brenda J - Texas October1%2C 2022 PM Recording</title>
+      <guid isPermaLink="false">c542671c-578d-402b-9f94-73c159d10744</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e2b/1671598080997/Brenda+J+-+Texas+October1%2C+2022+PM+Recording.m4a/original/Brenda+J+-+Texas+October1%2C+2022+PM+Recording.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 8%2C 2022 PM Recording James S - California</title>
+      <guid isPermaLink="false">08f4c4a0-6ee3-4829-b12e-eaf5e257118b</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e2d/1671598081000/October+8%2C+2022+PM+Recording+James+S+-+California.m4a/original/October+8%2C+2022+PM+Recording+James+S+-+California.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 15%2C 2022 PM Recording Jessica S - Washington</title>
+      <guid isPermaLink="false">bd33ef99-f506-4439-8ad8-6dd4d3e16aea</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e2f/1671598081002/October+15%2C+2022+PM+Recording+Jessica+S+-+Washington.m4a/original/October+15%2C+2022+PM+Recording+Jessica+S+-+Washington.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 22%2C 2022 PM Recording Laughing Bear aka LB - Alaska</title>
+      <guid isPermaLink="false">6d70f1b4-a316-446a-9376-c41006f9d48e</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e31/1671598081005/October+22%2C+2022+PM+Recording+Laughing+Bear+aka+LB+-+Alaska.m4a/original/October+22%2C+2022+PM+Recording+Laughing+Bear+aka+LB+-+Alaska.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 29%2C 2022 PM Recording Marcel A - San Francisco</title>
+      <guid isPermaLink="false">67ab4746-f986-4a2a-8c4c-99db27021f8f</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e33/1671598081008/October+29%2C+2022+PM+Recording+Marcel+A+-+San+Francisco.m4a/original/October+29%2C+2022+PM+Recording+Marcel+A+-+San+Francisco.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 5th%2C 2022 PM Recording Doug C - Ontario</title>
+      <guid isPermaLink="false">d9f9d05c-0a5e-4a3a-a1e3-fbc9f0132481</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e35/1671598081011/November+5th%2C+2022+PM+Recording+Doug+C+-+Ontario.m4a/original/November+5th%2C+2022+PM+Recording+Doug+C+-+Ontario.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 12%2C 2022 PM Recording Mackenzie S - LA%2C California</title>
+      <guid isPermaLink="false">9c9a7086-adf5-4f98-b4db-b1f31f2cd0be</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7077c50d1ba6264e37/1671598081014/November+12%2C+2022+PM+Recording+Mackenzie+S+-+LA%2C+California.m4a/original/November+12%2C+2022+PM+Recording+Mackenzie+S+-+LA%2C+California.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 26%2C 2022 PM Recording Deborah S - Iowa</title>
+      <guid isPermaLink="false">6d6a3473-b2be-451d-8e68-d63eae6cd4cd</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63d012985be00b23762f453b/1684049608647/November+26%2C+2022+PM+Recording+Deborah+S+-+Iowa.m4a/original/November+26%2C+2022+PM+Recording+Deborah+S+-+Iowa.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 17%2C 2022  PM Recording  Joe S - NY</title>
+      <guid isPermaLink="false">5709c380-4319-4971-a76d-0d51c29e793a</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bccb76052b463a70bc1d9b/1684049608651/December+17%2C+2022++PM+Recording++Joe+S+-+NY.m4a/original/December+17%2C+2022++PM+Recording++Joe+S+-+NY.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 24%2C 2022 PM Recording  Tom Wicks - FL</title>
+      <guid isPermaLink="false">d61fa819-7589-40f8-bcf1-1d3bd27705ca</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bccc6fe72b780712bd142c/1684049608655/December+24%2C+2022+PM+Recording++Tom+Wicks+-+FL.m4a/original/December+24%2C+2022+PM+Recording++Tom+Wicks+-+FL.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 31%2C 2022  PM Recording  Amanda M - KS</title>
+      <guid isPermaLink="false">6f3021bb-5ad8-4646-93a3-ef2cceda2716</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcccecd79e057d3b12ad77/1684049608660/December+31%2C+2022++PM+Recording++Amanda+M+-+KS.m4a/original/December+31%2C+2022++PM+Recording++Amanda+M+-+KS.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cheyanne%2C BC Canada 1-1-2022 AM</title>
+      <guid isPermaLink="false">68fe0a1f-b728-4166-aa50-862e9d6ee344</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e39/1671598081017/Cheyanne%2C+BC+Canada+1-1-2022+AM.m4a/original/Cheyanne%2C+BC+Canada+1-1-2022+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carol_s Recording</title>
+      <guid isPermaLink="false">ae8e8e97-40a7-4f41-a224-a301ec88a674</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e3b/1671598081020/Carol_s+Recording.m4a/original/Carol_s+Recording.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Robbi Ontario 1-25-2022 AM</title>
+      <guid isPermaLink="false">aa6ec921-303e-4081-a498-eec79e8a86b0</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e3d/1671598081024/Robbi+Ontario+1-25-2022+AM.m4a/original/Robbi+Ontario+1-25-2022+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Darryl I - California</title>
+      <guid isPermaLink="false">12ce4e10-23b7-444d-92ff-b8b598079444</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e3f/1671598081027/Darryl+I+-+California.m4a/original/Darryl+I+-+California.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gary M - San Antonio%2C TX Jan. 29%2C 2022 Morning speaker</title>
+      <guid isPermaLink="false">896a88d0-cebc-495f-8206-4bc0cb8d44ae</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e41/1671598081030/Gary+M+-+San+Antonio%2C+TX+Jan.+29%2C+2022+Morning+speaker.m4a/original/Gary+M+-+San+Antonio%2C+TX+Jan.+29%2C+2022+Morning+speaker.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doug C Ontario%2C Canada  February 5%2C 2022  Morning speaker</title>
+      <guid isPermaLink="false">976d2ca8-cef2-4d38-9b92-72f8608e4243</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e43/1671598081033/Doug+C+Ontario%2C+Canada++February+5%2C+2022++Morning+speaker.m4a/original/Doug+C+Ontario%2C+Canada++February+5%2C+2022++Morning+speaker.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Katie L. CA -02-19-2022</title>
+      <guid isPermaLink="false">694ebdbf-d841-4474-af5a-8e03a80e6771</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e45/1671598081036/Katie+L.+CA+-02-19-2022.m4a/original/Katie+L.+CA+-02-19-2022.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mindy 2-26-2022 AM</title>
+      <guid isPermaLink="false">07ed7891-316b-4434-99d1-636c9fb59fef</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e47/1671598081040/Mindy+2-26-2022+AM.m4a/original/Mindy+2-26-2022+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>emily new mexico - 03-05-2022 AM</title>
+      <guid isPermaLink="false">679c0bb3-c75d-4a4c-bf7e-e2644b731586</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e49/1671598081043/emily+new+mexico+-+03-05-2022+AM.m4a/original/emily+new+mexico+-+03-05-2022+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>love_s share 3-19-2022 am</title>
+      <guid isPermaLink="false">fb688326-a566-4122-9e40-2bf1e337041c</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e4b/1671598081046/love_s+share+3-19-2022+am.m4a/original/love_s+share+3-19-2022+am.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>AM - Amanda In Kanas Recording 4%3A16</title>
+      <guid isPermaLink="false">5c7b1d51-e07e-4042-9e82-0e3de6329ac6</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e4d/1671598081052/AM+-+Amanda+In+Kanas+Recording+4%3A16.m4a/original/AM+-+Amanda+In+Kanas+Recording+4%3A16.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 23 AM - Sean K - Hull%2C MA</title>
+      <guid isPermaLink="false">def5d954-5388-4f49-af76-ab4bf51ef1b7</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e4f/1671598081055/April+23+AM+-+Sean+K+-+Hull%2C+MA.m4a/original/April+23+AM+-+Sean+K+-+Hull%2C+MA.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ananda - Brazil  AM Speaker April 30%2C 2022</title>
+      <guid isPermaLink="false">ae13a5cc-700c-4c2e-9163-0483e8ffe636</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e51/1671598081058/Ananda+-+Brazil++AM+Speaker+April+30%2C+2022.m4a/original/Ananda+-+Brazil++AM+Speaker+April+30%2C+2022.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jersey Joe AM recording on May 14%2C 2022</title>
+      <guid isPermaLink="false">63ce179a-7ab4-4e10-8b3c-b658191d644d</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e53/1671598081061/Jersey+Joe+AM+recording+on+May+14%2C+2022.m4a/original/Jersey+Joe+AM+recording+on+May+14%2C+2022.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Delilah - May 21%2C 2022 am Recording</title>
+      <guid isPermaLink="false">7d2f9703-6ce9-4df0-8407-56f824cc7987</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e55/1671598081065/Delilah+-+May+21%2C+2022+am+Recording.m4a/original/Delilah+-+May+21%2C+2022+am+Recording.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>6-4 AM Curly Top- aka Kristi</title>
+      <guid isPermaLink="false">0d495f15-b3ba-40b3-b567-0082d50de8bc</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e57/1671598081068/6-4+AM+Curly+Top-+aka+Kristi.m4a/original/6-4+AM+Curly+Top-+aka+Kristi.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>june 11 AM - Malibu- Vancouver%2C BC Canada</title>
+      <guid isPermaLink="false">69d627b4-3a27-4525-af1b-f7bf084684ca</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e59/1671598081071/june+11+AM+-+Malibu-+Vancouver%2C+BC+Canada.m4a/original/june+11+AM+-+Malibu-+Vancouver%2C+BC+Canada.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 18th%2C 2022 AM Recording    Deanna - Rockford%2C IL</title>
+      <guid isPermaLink="false">96a85315-0088-484f-ba9b-8d7111fd31f0</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e5b/1671598081073/June+18th%2C+2022+AM+Recording++++Deanna+-+Rockford%2C+IL.m4a/original/June+18th%2C+2022+AM+Recording++++Deanna+-+Rockford%2C+IL.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2nd%2C AM Recording  Summer B - NM</title>
+      <guid isPermaLink="false">58b1db52-52a8-40ba-8803-a4b13711f112</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e5d/1671598081076/July+2nd%2C+AM+Recording++Summer+B+-+NM.m4a/original/July+2nd%2C+AM+Recording++Summer+B+-+NM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Courtney T - NJ July 9th%2C 2022 AM Recording</title>
+      <guid isPermaLink="false">59dd3570-ab24-4416-81ed-e2d2a317f139</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e5f/1671598081080/Courtney+T+-+NJ+July+9th%2C+2022+AM+Recording.m4a/original/Courtney+T+-+NJ+July+9th%2C+2022+AM+Recording.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Melody- PA</title>
+      <guid isPermaLink="false">fad1cec7-b904-42fb-8fcc-3f18a5dfa971</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e61/1671598081084/Melody-+PA.m4a/original/Melody-+PA.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 23rd%2C 2022 AM Recording Della F - BC%2C Canada</title>
+      <guid isPermaLink="false">249149a3-ed3d-4578-bd04-7d3eaaec468b</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e63/1671598081092/July+23rd%2C+2022+AM+Recording+Della+F+-+BC%2C+Canada.m4a/original/July+23rd%2C+2022+AM+Recording+Della+F+-+BC%2C+Canada.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Earlston D. - GA</title>
+      <guid isPermaLink="false">1b0db466-6b66-4929-98a6-0a40dce5aa61</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e65/1671598081095/Earlston+D.+-+GA.m4a/original/Earlston+D.+-+GA.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 6%2C 2022 AM Recording Rod H.- MI</title>
+      <guid isPermaLink="false">784b0c99-9479-4c9e-a801-f509c5b0a155</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e67/1671598081098/August+6%2C+2022+AM+Recording+Rod+H.-+MI.m4a/original/August+6%2C+2022+AM+Recording+Rod+H.-+MI.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Glenn - Boston%2C MA</title>
+      <guid isPermaLink="false">04f0ca21-e4a9-4a67-88cf-7f86a40feb1d</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e69/1671598081101/Glenn+-+Boston%2C+MA.m4a/original/Glenn+-+Boston%2C+MA.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lauren S - AZ</title>
+      <guid isPermaLink="false">b17fb0b3-924c-414f-a604-939ee822eec4</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e6b/1671598081104/Lauren+S+-+AZ.m4a/original/Lauren+S+-+AZ.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Robin</title>
+      <guid isPermaLink="false">65f9ff07-3120-46cb-8bcf-011ece9ed5f3</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e6d/1671598081107/Robin.m4a/original/Robin.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heather M - BC Canada</title>
+      <guid isPermaLink="false">aeb69efc-a66d-43a1-9f5f-b63dd82e7ab5</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e6f/1671598081111/Heather+M+-+BC+Canada.m4a/original/Heather+M+-+BC+Canada.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 10%2C 2022 AM Recording Lee Croker - FL</title>
+      <guid isPermaLink="false">28d146c1-8b1b-4b1a-94ca-0ffd9f2bd613</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e71/1671598081114/September+10%2C+2022+AM+Recording+Lee+Croker+-+FL.m4a/original/September+10%2C+2022+AM+Recording+Lee+Croker+-+FL.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 24%2C 2022 AM Recording Simon - Quebec%2C Canada</title>
+      <guid isPermaLink="false">2be848d8-ed2a-475c-a680-d350b0054211</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e73/1671598081116/September+24%2C+2022+AM+Recording+Simon+-+Quebec%2C+Canada.m4a/original/September+24%2C+2022+AM+Recording+Simon+-+Quebec%2C+Canada.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 8%2C 2022 AM Recording Jo-Ann - New Hampshire</title>
+      <guid isPermaLink="false">cc2cfd04-c5c8-4193-82dd-f8733eda6aff</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e75/1671598081120/October+8%2C+2022+AM+Recording+Jo-Ann+-+New+Hampshire.m4a/original/October+8%2C+2022+AM+Recording+Jo-Ann+-+New+Hampshire.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>AM Recording October 15%2C 2022 Tom W - Florida aka Grandpa Tom</title>
+      <guid isPermaLink="false">29ab719c-f401-4263-afb0-f60da3934bf3</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e77/1671598081123/AM+Recording+October+15%2C+2022+Tom+W+-+Florida+aka+Grandpa+Tom.m4a/original/AM+Recording+October+15%2C+2022+Tom+W+-+Florida+aka+Grandpa+Tom.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 22%2C 2022 AM Recording Bri - California</title>
+      <guid isPermaLink="false">63bdebee-bd36-4d79-9979-27c5566eb1b0</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e79/1671598081125/October+22%2C+2022+AM+Recording+Bri+-+California.m4a/original/October+22%2C+2022+AM+Recording+Bri+-+California.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 29%2C 2022 AM Recording Jackie M - Florida</title>
+      <guid isPermaLink="false">4d484566-d2ab-414b-81ba-d42be959b847</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e7b/1671598081128/October+29%2C+2022+AM+Recording+Jackie+M+-+Florida.m4a/original/October+29%2C+2022+AM+Recording+Jackie+M+-+Florida.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 5th%2C 2022 AM Recording Aalo - Edmonton%2C AB Canada</title>
+      <guid isPermaLink="false">1fad358a-8796-418d-a602-f549832ade57</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e7d/1671598081131/November+5th%2C+2022+AM+Recording+Aalo+-+Edmonton%2C+AB+Canada.m4a/original/November+5th%2C+2022+AM+Recording+Aalo+-+Edmonton%2C+AB+Canada.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 12%2C 2022 AM Recording Lois D - Florida</title>
+      <guid isPermaLink="false">e264cc6a-cc2e-4946-9572-bda85b97f354</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcbd7177c50d1ba6264e7f/1671598081135/November+12%2C+2022+AM+Recording+Lois+D+-+Florida.m4a/original/November+12%2C+2022+AM+Recording+Lois+D+-+Florida.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 19th%2C 2022 AM Recording  Bev - South Carolina</title>
+      <guid isPermaLink="false">27e29fd7-693c-4dc8-8f52-2cac4fc2ad46</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcc5cfb2bb0d4c2850e27a/1684049608663/November+19th%2C+2022+AM+Recording++Bev+-+South+Carolina.m4a/original/November+19th%2C+2022+AM+Recording++Bev+-+South+Carolina.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 26%2C 2022 AM Recording Matt C - NJ</title>
+      <guid isPermaLink="false">9006314f-5f1c-472d-8f42-c7fe1004e605</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcc697d45efe4146a03a14/1684049608667/November+26%2C+2022+AM+Recording+Matt+C+-+NJ.m4a/original/November+26%2C+2022+AM+Recording+Matt+C+-+NJ.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 3rd%2C AM Recording  Aelia - BC%2C Canada</title>
+      <guid isPermaLink="false">d744407a-40c5-4363-8e2d-d6b8e257a21c</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcc7717752a34119d7cfd3/1684049608670/December+3rd%2C+AM+Recording++Aelia+-+BC%2C+Canada.m4a/original/December+3rd%2C+AM+Recording++Aelia+-+BC%2C+Canada.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ellen - AZ December 10%2C 2022 AM Recording</title>
+      <guid isPermaLink="false">97770bf4-b335-4d49-a7d7-f5ba8c6bbf23</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcc9d3d509343b380f531f/1684049608674/Ellen+-+AZ+December+10%2C+2022+AM+Recording.m4a/original/Ellen+-+AZ+December+10%2C+2022+AM+Recording.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 17%2C 2022 AM Recording Bradford - NC</title>
+      <guid isPermaLink="false">abf627e6-adf6-46f6-ac5e-5d2b972ec6b4</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcc7c2ab6ba1373553e4a7/1684049608677/December+17%2C+2022+AM+Recording+Bradford+-+NC.m4a/original/December+17%2C+2022+AM+Recording+Bradford+-+NC.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 24th%2C 2022  AM Recording  Ellen A - VA</title>
+      <guid isPermaLink="false">8a45092a-5605-4f61-932e-7a130dc5fba8</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcc81d33945955530298a2/1684049608681/December+24th%2C+2022++AM+Recording++Ellen+A+-+VA.m4a/original/December+24th%2C+2022++AM+Recording++Ellen+A+-+VA.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 31%2C 2022  AM Recording  Laura W - NJ</title>
+      <guid isPermaLink="false">c1ab629f-a091-4783-a45c-4f3265755db7</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/63bcc86877c50d1ba627ef88/1684049608685/December+31%2C+2022++AM+Recording++Laura+W+-+NJ.m4a/original/December+31%2C+2022++AM+Recording++Laura+W+-+NJ.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carol L. 12-11-2021 PM</title>
+      <guid isPermaLink="false">8259f5f2-6cef-454d-92a4-881b112372d1</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/61e6f5fefd549431c8c5b32c/1640713220470/Carol+L.+12-11-2021+PM.m4a/original/Carol+L.+12-11-2021+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paul McQ - NYC -12-18-2021 PM</title>
+      <guid isPermaLink="false">470f8764-9ae3-422d-a253-80ad4eebe0a3</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/61e6f5fefd549431c8c5b32e/1640713531422/Paul+McQ+-+NYC+-12-18-2021+PM.m4a/original/Paul+McQ+-+NYC+-12-18-2021+PM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Louis speaker 12.25.2021 pm</title>
+      <guid isPermaLink="false">328c8150-f3fa-4504-b438-4e47115f1dc4</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/61e8e8dc223cc21c86219314/1671598081138/Louis+speaker+12.25.2021+pm.m4a/original/Louis+speaker+12.25.2021+pm.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Matthew from Brooklyn%2C NY 10-23-21 AM</title>
+      <guid isPermaLink="false">d3e6160d-0895-4d00-bda8-ea2c1b0b1e89</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/61e6f5fefd549431c8c5b330/1639777657644/Matthew+from+Brooklyn%2C+NY+10-23-21+AM.m4a/original/Matthew+from+Brooklyn%2C+NY+10-23-21+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shadnay Vancouver%2C BC Canada 10-30-21 AM</title>
+      <guid isPermaLink="false">31e916c1-6e86-4e6a-8347-7383f67871f6</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/61e6f5fefd549431c8c5b332/1639777724642/Shadnay+Vancouver%2C+BC+Canada+10-30-21+AM.m4a/original/Shadnay+Vancouver%2C+BC+Canada+10-30-21+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Darius from Brooklyn NY 11-06-2021 AM</title>
+      <guid isPermaLink="false">74d5c948-30af-4d97-bac6-459c0daabcf2</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/61e6f5fefd549431c8c5b334/1639777768702/Darius+from+Brooklyn+NY+11-06-2021+AM.m4a/original/Darius+from+Brooklyn+NY+11-06-2021+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chris C from Connecticut 11-13-2021 AM</title>
+      <guid isPermaLink="false">1ef6a827-7d1a-4bd8-9ebd-a12094194328</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/61e6f5fefd549431c8c5b336/1639777842201/Chris+C+from+Connecticut+11-13-2021+AM.m4a/original/Chris+C+from+Connecticut+11-13-2021+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phil 11-20-2021 AM</title>
+      <guid isPermaLink="false">7b486bad-dab9-4c9b-b34e-d855327d2efb</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/61e6f5fefd549431c8c5b338/1639777908847/Phil+11-20-2021+AM.m4a/original/Phil+11-20-2021+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jennifer K 11-27-2021 AM</title>
+      <guid isPermaLink="false">4337746f-23a0-4acf-8af2-0da66446cabc</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/61e6f5fefd549431c8c5b33a/1639777947455/Jennifer+K+11-27-2021+AM.m4a/original/Jennifer+K+11-27-2021+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ellen A. - L-Burg%2C VA - 12-04-2021 AM</title>
+      <guid isPermaLink="false">8628af57-9f5e-42b4-a052-e91474122a0e</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/61e6f5fefd549431c8c5b33c/1639777990624/Ellen+A.+-+L-Burg%2C+VA+-+12-04-2021+AM.m4a/original/Ellen+A.+-+L-Burg%2C+VA+-+12-04-2021+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Earlston D. 12-11-2021 AM</title>
+      <guid isPermaLink="false">83a8f2e8-7f47-48ab-b345-47eeda79f86e</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/61e6f5fefd549431c8c5b33e/1639778048658/Earlston+D.+12-11-2021+AM.m4a/original/Earlston+D.+12-11-2021+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>David W%2C NC 12-25-2021 AM</title>
+      <guid isPermaLink="false">ac5fcb76-990b-4d58-8fd8-4cd103311b7b</guid>
+      <enclosure url="https://static1.squarespace.com/static/5f0d14c3e4942c1c8af72f44/t/61e8e973d96ef278ab35cd59/1671598081147/David+W%2C+NC+12-25-2021+AM.m4a/original/David+W%2C+NC+12-25-2021+AM.m4a" length="0" type="audio/x-m4a"/>
+      <pubDate>Fri, 17 May 2024 00:17:50 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
